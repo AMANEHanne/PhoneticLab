@@ -46,3 +46,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/phoneticlab.git
+
+## Live App
+
+https://phoneticlab-mbsfbcswuy6aq9cq5hwkqs.streamlit.app/
